@@ -1,0 +1,69 @@
+[
+  {
+    "id": "0",
+    "name": "UltraBoost Shoes",
+    "category": "Men's Running",
+    "imageUrl": [
+      "https://assets.adidas.com/images/w_766,h_766,f_auto,q_auto,fl_lossy,c_fill,g_auto/d31496f16c5d4e9ba409a49e001af480_9366/samba-classic-shoes.jpg",
+      "https://assets.adidas.com/images/w_766,h_766,f_auto,q_auto,fl_lossy,c_fill,g_auto/d31496f16c5d4e9ba409a49e001af480_9366/samba-classic-shoes.jpg"
+    ],
+    "oldPrices": "1899.00",
+    "sizes": [
+      {"size": "6.0", "isSelected": false},
+      {"size": "6.5", "isSelected": false},
+      {"size": "7.0", "isSelected": false},
+      {"size": "7.5", "isSelected": false},
+      {"size": "8.0", "isSelected": false},
+      {"size": "8.5", "isSelected": false},
+      {"size": "9.0", "isSelected": false}
+    ],
+    "price": "79.00",
+    "description": "Put Some Pep in Your Step with the addidas",
+    "title": "Addidas Running Shoes with cooling Ventilation"
+  },
+
+  {
+    "id": "1",
+    "name": "UltraBoost Shoes",
+    "category": "Men's Running",
+    "imageUrl": [
+      "https://assets.adidas.com/images/w_766,h_766,f_auto,q_auto,fl_lossy,c_fill,g_auto/ed11bd44665e48348eb788c2e71b8cb1_9366/nmd_r1-shoes-kids.jpg",
+      "https://assets.adidas.com/images/w_766,h_766,f_auto,q_auto,fl_lossy,c_fill,g_auto/41a54fcc95894e4688cfac5c0126aed6_9366/forum-low-shoes.jpg"
+    ],
+    "oldPrices": "1999.00",
+    "sizes": [
+      {"size": "6.0", "isSelected": false},
+      {"size": "6.5", "isSelected": false},
+      {"size": "7.0", "isSelected": false},
+      {"size": "7.5", "isSelected": false},
+      {"size": "8.0", "isSelected": false},
+      {"size": "8.5", "isSelected": false},
+      {"size": "9.0", "isSelected": false}
+    ],
+    "price": "89.00",
+    "description": "Put Some Pep in Your Step with the addidas",
+    "title": "Addidas Running Shoes with cooling Ventilation"
+  },
+  {
+    "id": "2",
+    "name": "UltraBoost Shoes",
+    "category": "Men's Running",
+    "imageUrl": [
+      "https://assets.adidas.com/images/w_766,h_766,f_auto,q_auto,fl_lossy,c_fill,g_auto/3e287fd7e38f49bcb946cb2995ad120f_9366/adidas-rapidasport-x-marvel-spider-man-shoes-kids.jpg",
+      "https://assets.adidas.com/images/w_766,h_766,f_auto,q_auto,fl_lossy,c_fill,g_auto/c29b6ec613184423b845d027e64cbb30_9366/nmd_r1-shoes-kids.jpg"
+    ],
+    "oldPrices": "1599.00",
+    "sizes": [
+      {"size": "6.0", "isSelected": false},
+      {"size": "6.5", "isSelected": false},
+      {"size": "7.0", "isSelected": false},
+      {"size": "7.5", "isSelected": false},
+      {"size": "8.0", "isSelected": false},
+      {"size": "8.5", "isSelected": false},
+      {"size": "9.0", "isSelected": false}
+    ],
+    "price": "99.00",
+    "description": "Put Some Pep in Your Step with the addidas",
+    "title": "Addidas Running Shoes with cooling Ventilation"
+  }
+]

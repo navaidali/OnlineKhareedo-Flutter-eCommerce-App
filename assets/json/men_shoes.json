@@ -1,0 +1,69 @@
+[
+  {
+    "id": "0",
+    "name": "UltraBoost Shoes",
+    "category": "Men's Running",
+    "imageUrl": [
+      "https://i.pinimg.com/originals/48/a4/1d/48a41d5d5f547140f3ca8755adec061b.jpg",
+      "https://www.pngall.com/wp-content/uploads/2016/06/Adidas-Shoes-Transparent.png"
+    ],
+    "oldPrices": "1899.00",
+    "sizes": [
+      {"size": "6.0", "isSelected": false},
+      {"size": "6.5", "isSelected": false},
+      {"size": "7.0", "isSelected": false},
+      {"size": "7.5", "isSelected": false},
+      {"size": "8.0", "isSelected": false},
+      {"size": "8.5", "isSelected": false},
+      {"size": "9.0", "isSelected": false}
+    ],
+    "price": "79.00",
+    "description": "Put Some Pep in Your Step with the addidas",
+    "title": "Addidas Running Shoes with cooling Ventilation"
+  },
+
+  {
+    "id": "1",
+    "name": "UltraBoost Shoes",
+    "category": "Men's Running",
+    "imageUrl": [
+      "https://www.pngarts.com/files/5/Adidas-Shoes-PNG-Picture.png",
+      "https://rukminim1.flixcart.com/image/850/500/shoe/r/p/4/runwht-lgtsca-black1-3-series-2013-adidas-8-original-imadz572jh3r5bqb.jpeg?q=20"
+    ],
+    "oldPrices": "1999.00",
+    "sizes": [
+      {"size": "6.0", "isSelected": false},
+      {"size": "6.5", "isSelected": false},
+      {"size": "7.0", "isSelected": false},
+      {"size": "7.5", "isSelected": false},
+      {"size": "8.0", "isSelected": false},
+      {"size": "8.5", "isSelected": false},
+      {"size": "9.0", "isSelected": false}
+    ],
+    "price": "89.00",
+    "description": "Put Some Pep in Your Step with the addidas",
+    "title": "Addidas Running Shoes with cooling Ventilation"
+  },
+  {
+    "id": "2",
+    "name": "UltraBoost Shoes",
+    "category": "Men's Running",
+    "imageUrl": [
+      "https://www.pngmart.com/files/21/Adidas-Shoes-PNG-Isolated-Pic.png",
+      "https://i.ebayimg.com/images/g/iLwAAOSwsbFfwtQQ/s-l400.jpg"
+    ],
+    "oldPrices": "1599.00",
+    "sizes": [
+      {"size": "6.0", "isSelected": false},
+      {"size": "6.5", "isSelected": false},
+      {"size": "7.0", "isSelected": false},
+      {"size": "7.5", "isSelected": false},
+      {"size": "8.0", "isSelected": false},
+      {"size": "8.5", "isSelected": false},
+      {"size": "9.0", "isSelected": false}
+    ],
+    "price": "99.00",
+    "description": "Put Some Pep in Your Step with the addidas",
+    "title": "Addidas Running Shoes with cooling Ventilation"
+  }
+]

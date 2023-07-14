@@ -1,0 +1,69 @@
+[
+  {
+    "id": "0",
+    "name": "UltraBoost Shoes",
+    "category": "Men's Running",
+    "imageUrl": [
+      "https://www.efootwear.eu/media/catalog/product/cache/image/650x650/0/0/0000200438238_01_ts_1.jpg",
+      "https://classic.cdn.media.amplience.net/i/hibbett/0313J_6220_main5"
+    ],
+    "oldPrices": "1899.00",
+    "sizes": [
+      {"size": "6.0", "isSelected": false},
+      {"size": "6.5", "isSelected": false},
+      {"size": "7.0", "isSelected": false},
+      {"size": "7.5", "isSelected": false},
+      {"size": "8.0", "isSelected": false},
+      {"size": "8.5", "isSelected": false},
+      {"size": "9.0", "isSelected": false}
+    ],
+    "price": "79.00",
+    "description": "Put Some Pep in Your Step with the addidas",
+    "title": "Addidas Running Shoes with cooling Ventilation"
+  },
+
+  {
+    "id": "1",
+    "name": "UltraBoost Shoes",
+    "category": "Men's Running",
+    "imageUrl": [
+      "https://www.vhv.rs/dpng/d/11-119870_latest-adidas-shoes-for-girls-hd-png-download.png",
+      "https://justforsports.com/cdn/shop/files/Adidas-Women-s-Superstar-Shoes-Cloud-White-Magic-Mauve-Just-For-Sports-652_700x700.png?v=1683526104"
+    ],
+    "oldPrices": "1999.00",
+    "sizes": [
+      {"size": "6.0", "isSelected": false},
+      {"size": "6.5", "isSelected": false},
+      {"size": "7.0", "isSelected": false},
+      {"size": "7.5", "isSelected": false},
+      {"size": "8.0", "isSelected": false},
+      {"size": "8.5", "isSelected": false},
+      {"size": "9.0", "isSelected": false}
+    ],
+    "price": "89.00",
+    "description": "Put Some Pep in Your Step with the addidas",
+    "title": "Addidas Running Shoes with cooling Ventilation"
+  },
+  {
+    "id": "2",
+    "name": "UltraBoost Shoes",
+    "category": "Men's Running",
+    "imageUrl": [
+      "https://www.efootwear.eu/media/catalog/product/cache/image/650x650/0/0/0000200438238_01_ts_1.jpg",
+      "https://www.theproshop.co.za/uploads/products/5B278181-AE83-47A7-82D4-E465EDE93336.png"
+    ],
+    "oldPrices": "1599.00",
+    "sizes": [
+      {"size": "6.0", "isSelected": false},
+      {"size": "6.5", "isSelected": false},
+      {"size": "7.0", "isSelected": false},
+      {"size": "7.5", "isSelected": false},
+      {"size": "8.0", "isSelected": false},
+      {"size": "8.5", "isSelected": false},
+      {"size": "9.0", "isSelected": false}
+    ],
+    "price": "99.00",
+    "description": "Put Some Pep in Your Step with the addidas",
+    "title": "Addidas Running Shoes with cooling Ventilation"
+  }
+]
