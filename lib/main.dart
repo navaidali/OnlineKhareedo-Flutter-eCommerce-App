@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:online_khareedo/controllers/mainscreen_provider.dart';
+import 'package:online_khareedo/controllers/product_provider.dart';
 import 'package:online_khareedo/views/ui/mainPage.dart';
 import 'package:provider/provider.dart';
 
@@ -7,6 +8,7 @@ void main() {
   runApp(MultiProvider(
       providers: [
         ChangeNotifierProvider(create: (context)=> MainScreenNotifier()),
+        ChangeNotifierProvider(create: (context)=> ProductNotifier()),
       ],
       child: const MyApp()));
 }

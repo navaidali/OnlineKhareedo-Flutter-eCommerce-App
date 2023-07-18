@@ -3,7 +3,6 @@ import 'package:online_khareedo/controllers/mainscreen_provider.dart';
 import 'package:online_khareedo/views/shared/bottom_nav.dart';
 import 'package:online_khareedo/views/ui/cartPage.dart';
 import 'package:online_khareedo/views/ui/homePage.dart';
-import 'package:online_khareedo/views/ui/product_by_cart.dart';
 import 'package:online_khareedo/views/ui/profile.dart';
 import 'package:online_khareedo/views/ui/searchPage.dart';
 import 'package:provider/provider.dart';

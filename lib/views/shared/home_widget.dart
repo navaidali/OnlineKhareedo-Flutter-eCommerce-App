@@ -4,6 +4,7 @@ import 'package:online_khareedo/views/shared/appstyle.dart';
 import 'package:online_khareedo/views/shared/new_shoes.dart';
 import 'package:online_khareedo/views/shared/product_card.dart';
 import 'package:online_khareedo/views/ui/product_by_cart.dart';
+import 'package:online_khareedo/views/ui/product_page.dart';
 import '../../models/sneakers_model.dart';
 class HomeWidget extends StatelessWidget {
   const HomeWidget({Key? key, required Future<List<Sneakers>> male, required this.tabIndex}) : _male = male;
@@ -32,12 +33,17 @@ class HomeWidget extends StatelessWidget {
                     scrollDirection: Axis.horizontal,
                     itemBuilder: (context, index) {
                       final shoe = snapshot.data![index];
-                      return ProductCard(
-                        price: shoe.price,
-                        category: shoe.category,
-                        name: shoe.name,
-                        id: shoe.id,
-                        image:shoe.imageUrl[0],
+                      return GestureDetector(
+                        onTap: (){
+                          Navigator.push(context, MaterialPageRoute(builder: (context)=>ProductPage(id: shoe.id, category: shoe.category)));
+                        },
+                        child: ProductCard(
+                          price: shoe.price,
+                          category: shoe.category,
+                          name: shoe.name,
+                          id: shoe.id,
+                          image:shoe.imageUrl[0],
+                        ),
                       );
                     });
               }
